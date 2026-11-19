@@ -1,0 +1,15 @@
+I:\ServUO\Horizon Client\ClassicUO\tools\ManifestCreator\bin\Debug\net10.0\ManifestCreator.exe
+I:\ServUO\Horizon Client\ClassicUO\tools\ManifestCreator\bin\Debug\net10.0\ManifestCreator.deps.json
+I:\ServUO\Horizon Client\ClassicUO\tools\ManifestCreator\bin\Debug\net10.0\ManifestCreator.runtimeconfig.json
+I:\ServUO\Horizon Client\ClassicUO\tools\ManifestCreator\bin\Debug\net10.0\ManifestCreator.dll
+I:\ServUO\Horizon Client\ClassicUO\tools\ManifestCreator\bin\Debug\net10.0\ManifestCreator.pdb
+I:\ServUO\Horizon Client\ClassicUO\tools\ManifestCreator\obj\Debug\net10.0\ManifestCreator.GeneratedMSBuildEditorConfig.editorconfig
+I:\ServUO\Horizon Client\ClassicUO\tools\ManifestCreator\obj\Debug\net10.0\ManifestCreator.AssemblyInfoInputs.cache
+I:\ServUO\Horizon Client\ClassicUO\tools\ManifestCreator\obj\Debug\net10.0\ManifestCreator.AssemblyInfo.cs
+I:\ServUO\Horizon Client\ClassicUO\tools\ManifestCreator\obj\Debug\net10.0\ManifestCreator.csproj.CoreCompileInputs.cache
+I:\ServUO\Horizon Client\ClassicUO\tools\ManifestCreator\obj\Debug\net10.0\ManifestCreator.sourcelink.json
+I:\ServUO\Horizon Client\ClassicUO\tools\ManifestCreator\obj\Debug\net10.0\ManifestCreator.dll
+I:\ServUO\Horizon Client\ClassicUO\tools\ManifestCreator\obj\Debug\net10.0\refint\ManifestCreator.dll
+I:\ServUO\Horizon Client\ClassicUO\tools\ManifestCreator\obj\Debug\net10.0\ManifestCreator.pdb
+I:\ServUO\Horizon Client\ClassicUO\tools\ManifestCreator\obj\Debug\net10.0\ManifestCreator.genruntimeconfig.cache
+I:\ServUO\Horizon Client\ClassicUO\tools\ManifestCreator\obj\Debug\net10.0\ref\ManifestCreator.dll
