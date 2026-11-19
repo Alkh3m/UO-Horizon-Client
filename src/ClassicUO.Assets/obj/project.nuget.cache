@@ -1,0 +1,83 @@
+{
+  "version": 2,
+  "dgSpecHash": "ibqbS7+Alls=",
+  "success": true,
+  "projectFilePath": "I:\\Horizon Tools\\Horizon Client\\ClassicUO\\src\\ClassicUO.Assets\\ClassicUO.Assets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\8kmas\\.nuget\\packages\\sixlabors.imagesharp\\3.1.11\\sixlabors.imagesharp.3.1.11.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'SixLabors.ImageSharp' 3.1.11 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-gwg2-r3hj-4w44",
+      "projectPath": "I:\\Horizon Tools\\Horizon Client\\ClassicUO\\src\\ClassicUO.Assets\\ClassicUO.Assets.csproj",
+      "warningLevel": 1,
+      "filePath": "I:\\Horizon Tools\\Horizon Client\\ClassicUO\\src\\ClassicUO.Assets\\ClassicUO.Assets.csproj",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'SixLabors.ImageSharp' 3.1.11 has a known high severity vulnerability, https://github.com/advisories/GHSA-j3p4-wp97-rph4",
+      "projectPath": "I:\\Horizon Tools\\Horizon Client\\ClassicUO\\src\\ClassicUO.Assets\\ClassicUO.Assets.csproj",
+      "warningLevel": 1,
+      "filePath": "I:\\Horizon Tools\\Horizon Client\\ClassicUO\\src\\ClassicUO.Assets\\ClassicUO.Assets.csproj",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'SixLabors.ImageSharp' 3.1.11 has a known high severity vulnerability, https://github.com/advisories/GHSA-j9gm-c75j-xc9q",
+      "projectPath": "I:\\Horizon Tools\\Horizon Client\\ClassicUO\\src\\ClassicUO.Assets\\ClassicUO.Assets.csproj",
+      "warningLevel": 1,
+      "filePath": "I:\\Horizon Tools\\Horizon Client\\ClassicUO\\src\\ClassicUO.Assets\\ClassicUO.Assets.csproj",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'SixLabors.ImageSharp' 3.1.11 has a known high severity vulnerability, https://github.com/advisories/GHSA-jjfr-hcj7-qf5w",
+      "projectPath": "I:\\Horizon Tools\\Horizon Client\\ClassicUO\\src\\ClassicUO.Assets\\ClassicUO.Assets.csproj",
+      "warningLevel": 1,
+      "filePath": "I:\\Horizon Tools\\Horizon Client\\ClassicUO\\src\\ClassicUO.Assets\\ClassicUO.Assets.csproj",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'SixLabors.ImageSharp' 3.1.11 has a known high severity vulnerability, https://github.com/advisories/GHSA-v76p-62qx-wwq2",
+      "projectPath": "I:\\Horizon Tools\\Horizon Client\\ClassicUO\\src\\ClassicUO.Assets\\ClassicUO.Assets.csproj",
+      "warningLevel": 1,
+      "filePath": "I:\\Horizon Tools\\Horizon Client\\ClassicUO\\src\\ClassicUO.Assets\\ClassicUO.Assets.csproj",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'SixLabors.ImageSharp' 3.1.11 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wmxv-xphr-5c9g",
+      "projectPath": "I:\\Horizon Tools\\Horizon Client\\ClassicUO\\src\\ClassicUO.Assets\\ClassicUO.Assets.csproj",
+      "warningLevel": 1,
+      "filePath": "I:\\Horizon Tools\\Horizon Client\\ClassicUO\\src\\ClassicUO.Assets\\ClassicUO.Assets.csproj",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

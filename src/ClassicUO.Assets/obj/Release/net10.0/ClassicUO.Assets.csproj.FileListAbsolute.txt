@@ -1,0 +1,69 @@
+I:\ServUO\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\ClassicUO.Assets.deps.json
+I:\ServUO\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\ClassicUO.Assets.dll
+I:\ServUO\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\ClassicUO.Assets.pdb
+I:\ServUO\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\ClassicUO.IO.dll
+I:\ServUO\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\ClassicUO.Utility.dll
+I:\ServUO\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\FNA.dll
+I:\ServUO\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\MP3Sharp.dll
+I:\ServUO\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\ClassicUO.IO.pdb
+I:\ServUO\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\ClassicUO.Utility.pdb
+I:\ServUO\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\FNA.pdb
+I:\ServUO\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\FNA.dll.config
+I:\ServUO\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\MP3Sharp.pdb
+I:\ServUO\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.csproj.AssemblyReference.cache
+I:\ServUO\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.GeneratedMSBuildEditorConfig.editorconfig
+I:\ServUO\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.AssemblyInfoInputs.cache
+I:\ServUO\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.AssemblyInfo.cs
+I:\ServUO\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.csproj.CoreCompileInputs.cache
+I:\ServUO\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.sourcelink.json
+I:\ServUO\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicU.5FA6DC43.Up2Date
+I:\ServUO\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.dll
+I:\ServUO\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\refint\ClassicUO.Assets.dll
+I:\ServUO\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.pdb
+I:\ServUO\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ref\ClassicUO.Assets.dll
+I:\ServUO backup\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\ClassicUO.Assets.deps.json
+I:\ServUO backup\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\ClassicUO.Assets.dll
+I:\ServUO backup\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\ClassicUO.Assets.pdb
+I:\ServUO backup\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\ClassicUO.IO.dll
+I:\ServUO backup\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\ClassicUO.Utility.dll
+I:\ServUO backup\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\FNA.dll
+I:\ServUO backup\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\MP3Sharp.dll
+I:\ServUO backup\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\ClassicUO.IO.pdb
+I:\ServUO backup\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\ClassicUO.Utility.pdb
+I:\ServUO backup\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\FNA.pdb
+I:\ServUO backup\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\FNA.dll.config
+I:\ServUO backup\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\MP3Sharp.pdb
+I:\ServUO backup\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.csproj.AssemblyReference.cache
+I:\ServUO backup\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.GeneratedMSBuildEditorConfig.editorconfig
+I:\ServUO backup\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.AssemblyInfoInputs.cache
+I:\ServUO backup\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.AssemblyInfo.cs
+I:\ServUO backup\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.csproj.CoreCompileInputs.cache
+I:\ServUO backup\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.sourcelink.json
+I:\ServUO backup\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicU.5FA6DC43.Up2Date
+I:\ServUO backup\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.dll
+I:\ServUO backup\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\refint\ClassicUO.Assets.dll
+I:\ServUO backup\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.pdb
+I:\ServUO backup\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ref\ClassicUO.Assets.dll
+I:\Horizon Tools\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\ClassicUO.Assets.deps.json
+I:\Horizon Tools\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\ClassicUO.Assets.dll
+I:\Horizon Tools\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\ClassicUO.Assets.pdb
+I:\Horizon Tools\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\ClassicUO.IO.dll
+I:\Horizon Tools\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\ClassicUO.Utility.dll
+I:\Horizon Tools\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\FNA.dll
+I:\Horizon Tools\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\MP3Sharp.dll
+I:\Horizon Tools\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\ClassicUO.IO.pdb
+I:\Horizon Tools\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\ClassicUO.Utility.pdb
+I:\Horizon Tools\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\FNA.pdb
+I:\Horizon Tools\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\FNA.dll.config
+I:\Horizon Tools\Horizon Client\ClassicUO\src\ClassicUO.Assets\bin\Release\net10.0\MP3Sharp.pdb
+I:\Horizon Tools\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.csproj.AssemblyReference.cache
+I:\Horizon Tools\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.GeneratedMSBuildEditorConfig.editorconfig
+I:\Horizon Tools\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.AssemblyInfoInputs.cache
+I:\Horizon Tools\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.AssemblyInfo.cs
+I:\Horizon Tools\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.csproj.CoreCompileInputs.cache
+I:\Horizon Tools\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.sourcelink.json
+I:\Horizon Tools\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicU.5FA6DC43.Up2Date
+I:\Horizon Tools\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.dll
+I:\Horizon Tools\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\refint\ClassicUO.Assets.dll
+I:\Horizon Tools\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ClassicUO.Assets.pdb
+I:\Horizon Tools\Horizon Client\ClassicUO\src\ClassicUO.Assets\obj\Release\net10.0\ref\ClassicUO.Assets.dll

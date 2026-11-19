@@ -1,0 +1,8 @@
+I:\ServUO backup\Horizon Client\ClassicUO\bin\dist\ClassicUO.exe
+I:\ServUO backup\Horizon Client\ClassicUO\bin\dist\ClassicUO.exe.config
+I:\ServUO backup\Horizon Client\ClassicUO\bin\dist\ClassicUO.pdb
+I:\ServUO backup\Horizon Client\ClassicUO\bin\dist\System.Buffers.dll
+I:\ServUO backup\Horizon Client\ClassicUO\bin\dist\System.Memory.dll
+I:\ServUO backup\Horizon Client\ClassicUO\bin\dist\System.Numerics.Vectors.dll
+I:\ServUO backup\Horizon Client\ClassicUO\bin\dist\System.Runtime.CompilerServices.Unsafe.dll
+I:\ServUO backup\Horizon Client\ClassicUO\bin\dist\cuoapi.dll
